@@ -1,4 +1,4 @@
-site_name: Panduan Aplikasi Manajemen Pegawai
+site_name: Panduan Aplikasi APPASI
 # site_url: https://mydomain.org/mysite
 theme:
   name: material
@@ -63,7 +63,7 @@ markdown_extensions:
   - pymdownx.keys
 
 # Footer
-copyright: Made with al fachre| &copy; 2025
+copyright: Made with 😊 BY:KELOMPOK 1 | &copy; 2025
 
 extra:
   generator: false

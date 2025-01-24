@@ -1,7 +1,7 @@
-# Selamat datang .....
+# SELAMAT DATANG
 
-# Berada di panduan Aplikasi Manajemen Pegawai
+# Di Panduan Aplikasi APPASI
 
- <img src = "https://picsum.photos/200" width="40%">
+![LOGO APPASI](images/LOGO APPASI.png)
 
- [newslett](01.md){ .md-button }
+ [MASUK](01.md){ .md-button }
